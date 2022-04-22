@@ -1,7 +1,7 @@
 Hi 👋 My name is Tusharkanti Joshi
 ==================================
 
-Full Stack Developer
+React | Nodejs | MERN Stack Developer
 --------------------
 
 Hi there! I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs. 
