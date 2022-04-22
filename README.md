@@ -16,8 +16,6 @@ I'm pretty spontaneous and love saying yes to new experiences. I keep myself ext
 
 I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. 
 
-You can contact me on tusharkantijoshi@gmail.com
-
 * 🌍  I'm based in Hyderabad, Telangana, India
 * 🖥️  See my [portfolio](https://tusharkantijoshi.com)
 * ✉️  You can contact me at tusharkantijoshi@gmail.com
