@@ -4,7 +4,22 @@ Hi 👋 My name is Tusharkanti Joshi
 Full Stack Developer
 --------------------
 
-Hi there! I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs. I stay in Hyderabad and I manage my own profile. I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. Skills: • React with Redux including Testing Library and Jest • NodeJS with Express and Socket.IO • MongoDB, MySQL and Firebase • The MERN Stack • Bootstrap and Material UI I'm pretty spontaneous and love saying yes to new experiences. I keep myself extremely fit and I regularly go on walks with an audiobook. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family. I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. You can contact me on tusharkantijoshi@gmail.com
+Hi there! I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs. 
+I stay in Hyderabad and I manage my own profile.
+
+I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. 
+
+I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. 
+Skills: 
+• React with Redux including Testing Library and Jest 
+• NodeJS with Express and Socket.IO 
+• MongoDB, MySQL and Firebase 
+• The MERN Stack 
+• Bootstrap and Material UI 
+
+I'm pretty spontaneous and love saying yes to new experiences. I keep myself extremely fit and I regularly go on walks with an audiobook. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family. I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. 
+
+You can contact me on tusharkantijoshi@gmail.com
 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * 🖥️  See my portfolio at [GitHub](http://github.com/tusharkantijoshi)
