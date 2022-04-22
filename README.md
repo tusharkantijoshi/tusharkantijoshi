@@ -19,7 +19,7 @@ I'm absolutely ready to make a commitment and aims to deliver valuable and high 
 You can contact me on tusharkantijoshi@gmail.com
 
 * 🌍  I'm based in Hyderabad, Telangana, India
-* 🖥️  See my portfolio at [GitHub](http://github.com/tusharkantijoshi)
+* 🖥️  See my website at (http://tusharkantijoshi.com)
 * ✉️  You can contact me at [tusharkantijoshi@gmail.com](mailto:tusharkantijoshi@gmail.com)
 * ⚡  Favorite Quote: Law of Attraction, When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
 
