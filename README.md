@@ -4,8 +4,8 @@ Hi 👋 My name is Tusharkanti Joshi
 Full Stack Developer
 --------------------
 
-Hi there! I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs. 
-I stay in Hyderabad and I manage my own profile.
+Hi there! I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs.
+I stay in Hyderabad, Telangana, India and I manage my own profile.
 
 I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. 
 
@@ -21,7 +21,6 @@ I'm pretty spontaneous and love saying yes to new experiences. I keep myself ext
 
 You can contact me on tusharkantijoshi@gmail.com
 
-* 🌍  I'm based in Hyderabad, Telangana, India
 * 🖥️  See my portfolio at [GitHub](http://github.com/tusharkantijoshi)
 * ✉️  You can contact me at [tusharkantijoshi@gmail.com](mailto:tusharkantijoshi@gmail.com)
 * ⚡  Favorite Quote: Law of Attraction, When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
