@@ -10,6 +10,7 @@ I stay in Hyderabad and I manage my own profile.
 I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. 
 
 I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. 
+
 Skills: 
 
 • React with Redux including Testing Library and Jest 
