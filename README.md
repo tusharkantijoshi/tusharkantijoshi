@@ -12,7 +12,9 @@ I'm extremely ambitious and skilled in scripting client/server side architecture
 I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. 
 Skills: • React with Redux including Testing Library and Jest • NodeJS with Express and Socket.IO • MongoDB, MySQL and Firebase • The MERN Stack • Bootstrap and Material UI 
 
-I'm pretty spontaneous and love saying yes to new experiences. I keep myself extremely fit and I regularly go on walks with an audiobook. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family. 
+In addition to mastering these skills, I will continue to upskill myself to stay relevant by learning Docker and AWS, So I can become an expert in this field. 
+
+I am especially excited about how fast full stack industry is growing and I'm pretty spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family.
 
 I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. 
 
