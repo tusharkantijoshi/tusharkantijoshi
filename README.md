@@ -32,7 +32,9 @@ I'm absolutely ready to make a commitment and aims to deliver valuable and high 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * 🖥️  See my [portfolio](https://tusharkantijoshi.com)
 * ✉️  You can contact me at tusharkantijoshi@gmail.com
-* ⚡  Favorite Quote: Law of Attraction, When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
+* ⚡  Favorite Quote: Law of Attraction
+ 
+ When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
 
 ### Skills
 
