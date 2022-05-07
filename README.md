@@ -23,10 +23,10 @@ Skills:
 
 I am excited about how fast full stack industry is growing and I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills.  
 
-* 🌍  Hyderabad, Telangana, India
-* 🖥️  [Website](https://tusharkantijoshi.com)
-* ✉️  Contact me at tusharkantijoshi@gmail.com
-* ⚡  Favorite Quote: Law of Attraction: When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
+* 🌍 Hyderabad, Telangana, India
+* 🖥️ [Website](https://tusharkantijoshi.com)
+* ✉️ Contact me at tusharkantijoshi@gmail.com
+* ⚡ Favorite Quote: Law of Attraction: When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
 
 ### Skills
 
