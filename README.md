@@ -11,9 +11,12 @@ I'm extremely ambitious and skilled in scripting client/server side architecture
 
 I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. 
 Skills: 
-• Figma with HTML, CSS and SASS
-• React with Redux and NextJS
-• React Testing Library and Jest
+• Figma with HTML, CSS and SASS  
+
+• React with Redux and NextJS  
+
+• React Testing Library and Jest  
+
 • NodeJS with Express and Socket.IO 
 • MongoDB, MySQL and Firebase
 • The MERN Stack 
