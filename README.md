@@ -4,12 +4,13 @@ Hi 👋 My name is Tusharkanti Joshi
 React | Nodejs | MERN Stack Developer
 --------------------
 
-I am a Full Stack Developer with a proficiency in JavaScript, React and Nodejs.  
-I stay in Hyderabad and I manage my own profile. 
+I am a Full Stack Developer with a proficiency in JavaScript, React and NodeJS
+I stay in Hyderabad and I manage my own profile.
 
-I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. 
+I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
-I spend a lot of my free time learning new skills and pushing myself out of my comfort zone.   
+I'm spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family.  
+I spend a lot of my free time learning new skills and pushing myself out of my comfort zone.  
 Skills:  
 • Figma with HTML, CSS and SASS  
 • React with Redux and NextJS  
@@ -20,14 +21,10 @@ Skills:
 • Bootstrap, Material UI and Tailwind  
 • Git and GitHub  
 
-In addition to mastering these skills, I will continue to upskill myself to stay relevant by learning Docker and AWS, So I can become an expert in this field. 
-
-I am especially excited about how fast full stack industry is growing and I'm pretty spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family. 
-
-I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. 
+I am excited about how fast full stack industry is growing and I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills.  
 
 * 🌍  Hyderabad, Telangana, India
-* 🖥️   [portfolio](https://tusharkantijoshi.com)
+* 🖥️  [Website](https://tusharkantijoshi.com)
 * ✉️  Contact me at tusharkantijoshi@gmail.com
 * ⚡  Favorite Quote: Law of Attraction: When you truly want something and go after it without limiting yourself with disbelief. The universe will make it happen.
 
