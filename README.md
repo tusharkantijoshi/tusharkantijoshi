@@ -10,22 +10,19 @@ I stay in Hyderabad and I manage my own profile.
 I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades. 
 
 I spend a lot of my free time learning new skills and pushing myself out of my comfort zone. 
-
 Skills: 
-
-• React with Redux including Testing Library and Jest 
-
+• Figma with HTML, CSS and SASS
+• React with Redux and NextJS
+• React Testing Library and Jest
 • NodeJS with Express and Socket.IO 
-
-• MongoDB, MySQL and Firebase 
-
+• MongoDB, MySQL and Firebase
 • The MERN Stack 
-
-• Bootstrap and Material UI 
+• Bootstrap, Material UI and Tailwind
+• Git and GitHub
 
 In addition to mastering these skills, I will continue to upskill myself to stay relevant by learning Docker and AWS, So I can become an expert in this field. 
 
-I am especially excited about how fast full stack industry is growing and I'm pretty spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family.
+I am especially excited about how fast full stack industry is growing and I'm pretty spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family. 
 
 I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills. 
 
