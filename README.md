@@ -19,7 +19,7 @@ Skills:
 • MongoDB, MySQL and Firebase  
 • The MERN Stack  
 • Bootstrap, Material UI and Tailwind  
-• Git and GitHub  
+• Git, GitHub, NPM, Postman
 
 I am excited about how fast full stack industry is growing and I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills.  
 
