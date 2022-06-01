@@ -4,20 +4,20 @@ Hi 👋 My name is Tusharkanti Joshi
 React | Node.js | MERN Stack Developer
 --------------------
 
-I am a Full Stack Developer with a proficiency in JavaScript, React and NodeJS.
+I am a Full Stack Developer with a proficiency in JavaScript, React and NodeJS.  
 I am skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
-I stay in Hyderabad and I manage my own profile. I'm extremely ambitious and passionate about full stack development and spends a lot of my free time learning new skills and pushing myself out of my comfort zone.
-Skills:
-• Figma with HTML, CSS and SASS
-• JavaScript and Typescript
-• React with Redux and NextJS
-• React Testing Library and Jest
-• NodeJS with Express and Socket.IO
+I stay in Hyderabad and I manage my own profile. I'm extremely ambitious and passionate about full stack development and spends a lot of my free time learning new skills and pushing myself out of my comfort zone.  
+Skills:  
+• Figma with HTML, CSS and SASS  
+• JavaScript and Typescript  
+• React with Redux and NextJS  
+• React Testing Library and Jest  
+• NodeJS with Express and Socket.IO  
 • MongoDB, MySQL and Firebase
-• The MERN Stack
-• Bootstrap, Material UI and Tailwind
-• Git, GitHub, NPM, Postman
+• The MERN Stack  
+• Bootstrap, Material UI and Tailwind  
+• Git, GitHub, NPM, Postman  
 
 * 🌍 Hyderabad, Telangana, India
 * 🖥️ [Website: www.tusharkantijoshi.com](https://tusharkantijoshi.com)
