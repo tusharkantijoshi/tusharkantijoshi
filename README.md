@@ -1,27 +1,23 @@
 Hi 👋 My name is Tusharkanti Joshi
 ==================================
 
-React | Nodejs | MERN Stack Developer
+React | Node.js | MERN Stack Developer
 --------------------
 
-I am a Full Stack Developer with a proficiency in JavaScript, React and NodeJS  
-I stay in Hyderabad and I manage my own profile.
+I am a Full Stack Developer with a proficiency in JavaScript, React and NodeJS.
+I am skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
-I'm extremely ambitious and skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
-
-I'm spontaneous and love saying yes to new opportunities. Caste, creed, community, color, shape, size, and horoscope do not matter to me or my family.  
-I spend a lot of my free time learning new skills and pushing myself out of my comfort zone.  
-Skills:  
-• Figma with HTML, CSS and SASS  
-• React with Redux and NextJS  
-• React Testing Library and Jest  
-• NodeJS with Express and Socket.IO  
-• MongoDB, MySQL and Firebase  
-• The MERN Stack  
-• Bootstrap, Material UI and Tailwind  
+I stay in Hyderabad and I manage my own profile. I'm extremely ambitious and passionate about full stack development and spends a lot of my free time learning new skills and pushing myself out of my comfort zone.
+Skills:
+• Figma with HTML, CSS and SASS
+• JavaScript and Typescript
+• React with Redux and NextJS
+• React Testing Library and Jest
+• NodeJS with Express and Socket.IO
+• MongoDB, MySQL and Firebase
+• The MERN Stack
+• Bootstrap, Material UI and Tailwind
 • Git, GitHub, NPM, Postman
-
-I am excited about how fast full stack industry is growing and I'm absolutely ready to make a commitment and aims to deliver valuable and high quality results with interpersonal and problem solving skills.  
 
 * 🌍 Hyderabad, Telangana, India
 * 🖥️ [Website: www.tusharkantijoshi.com](https://tusharkantijoshi.com)
