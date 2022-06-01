@@ -7,7 +7,7 @@ React | Node.js | MERN Stack Developer
 I am a Full Stack Developer with a proficiency in JavaScript, React and Node.js.  
 I am skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
-I stay in Hyderabad and I manage my own profile. I'm extremely ambitious and passionate about full stack development and spends a lot of my free time learning new skills and pushing myself out of my comfort zone.  
+I stay in Hyderabad and I manage my own profile. I spend a lot of my free time learning new skills and pushing myself out of my comfort zone.  
 Skills:  
 • Figma with HTML, CSS and SASS  
 • JavaScript and Typescript  
