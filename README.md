@@ -15,7 +15,7 @@ Skills:
 • React with Redux and NextJS  
 • React Testing Library and Jest  
 • NodeJS with Express and Socket.IO  
-• MongoDB, MySQL and Firebase
+• MongoDB, MySQL and Firebase  
 • The MERN Stack  
 • Bootstrap, Material UI and Tailwind  
 • Git, GitHub, NPM, Postman  
