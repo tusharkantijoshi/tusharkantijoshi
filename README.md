@@ -1,4 +1,4 @@
-Hi 👋 My name is Tusharkanti Joshi
+Hi 👋 I am Tusharkanti Joshi
 ==================================
 
 React | Node.js | MERN Stack Developer
