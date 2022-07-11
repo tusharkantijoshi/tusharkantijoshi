@@ -19,7 +19,9 @@ Skills:
 • ODM/ORM: Mongoose and Sequelize  
 • The MERN Stack  
 • Bootstrap, Material UI and Tailwind  
-• Git, GitHub, NPM, Postman  
+• Git, GitHub, Bitbucket
+• NPM, Postman, SOAP UI
+
 
 * 🌍 Hyderabad, Telangana, India
 * 🖥️ [Website: www.tusharkantijoshi.com](https://tusharkantijoshi.com)
