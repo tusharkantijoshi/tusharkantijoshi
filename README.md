@@ -1,11 +1,10 @@
 Hi 👋 I am Tusharkanti Joshi
 ==================================
 
-React | Node.js | Full Stack Developer
+JavaScript | React | Node.js Developer
 --------------------
 
-I am a Full Stack Developer with a proficiency in JavaScript, React and Node.js.  
-I am skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
+I am a Full Stack Developer skilled in scripting client/server side architecture, building optimized dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
 * 🌍 Hyderabad, Telangana, India
 * 🖥️ [Website: www.tusharkantijoshi.com](https://tusharkantijoshi.com)
