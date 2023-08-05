@@ -4,7 +4,7 @@ Hello! I am Tusharkanti Joshi
 React.js | Node.js | Full Stack Developer
 -----------------------------------------
 
-I am a full stack web developer skilled in developing robust and efficient web applications with a strong command over React.js, Node.js, and SQL.  
+I am a full stack web developer with a strong command over React.js, Node.js, and SQL.  
 I am skilled in scripting client/server side architecture, building optimised dynamic functional components, create/connect APIs including testing, debugging and database upgrades.
 
 I have designed and implemented scalable and responsive user interfaces using React.  
