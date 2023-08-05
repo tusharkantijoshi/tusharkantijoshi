@@ -11,12 +11,12 @@ I have designed and implemented scalable and responsive user interfaces using Re
 Throughout my career, I constantly stay updated with the latest industry trends and best practices in the ever-evolving field of web development.
 
 Skills:
-• HTML, CSS, JavaScript and TypeScript
-• React with Redux/Context and Material UI
-• Node with Express and SQL/Sequelize
-• Git, GitHub, NPM, Postman, DBeaver
+• HTML, CSS, JavaScript and TypeScript  
+• React with Redux/Context and Material UI  
+• Node with Express and SQL/Sequelize  
+• Git, GitHub, NPM, Postman, DBeaver  
 
-Contact Details:
-Address: Hyderabad, Telangana, India
-Website: www.tusharkantijoshi.com
+Contact Details:  
+Address: Hyderabad, Telangana, India  
+Website: www.tusharkantijoshi.com  
 Email: tusharkantijoshi@gmail.com
