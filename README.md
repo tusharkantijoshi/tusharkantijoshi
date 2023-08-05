@@ -13,7 +13,7 @@ My proficiency in SQL allows me to efficiently design and manage databases, ensu
 
 I constantly stay updated with the latest industry trends and best practices in the ever-evolving field of web development.
 
-Skills:
+Skills:  
 • HTML, CSS, JavaScript and TypeScript  
 • React with Redux/Context and Material UI  
 • Node with Express and SQL/Sequelize  
